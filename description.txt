@@ -1,0 +1,5 @@
+The attached CSV contains a list of ~650 schools and their latitude+longitude. 
+
+Your task is to build a web application that allows users to search for schools within X miles of their location, or any other lat+longitude. Your application should render the results sorted by distances from the user's current location, with an indication of how many miles away they are from the school.
+
+Feel free to use any off-the-shelf components you like. We'd like you to solve this problem like you would during an ordinary work day. Its most important that your solution works, but we appreciate a nice UI/UX as well.
