@@ -1,5 +1,5 @@
 library(shiny)
-library(tidyverse)
+library(dplyr)
 library(jsonlite)
 library(radiant.data)
 library(maps)
