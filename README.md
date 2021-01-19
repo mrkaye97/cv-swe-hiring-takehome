@@ -10,6 +10,5 @@ The project is Dockerized, so setup is simple.
 2. `cd` into the repo
 3. `docker build -t foo .`
 4. `docker run -d --rm -p 3838:3838 foo`
-5. `docker stop your_container` to stop running. `your_container` will be displayed in your command line after running `docker run ...` and looks like a long string of characters and numbers
 
-And that's it! You should be able to see the app at [http://0.0.0.0:3838/](http://0.0.0.0:3838/).
+And that's it! You should be able to see the app at [http://0.0.0.0:3838/](http://0.0.0.0:3838/). `docker stop your_container` to stop running. `your_container` will be displayed in your command line after running `docker run ...` and looks like a long string of characters and numbers
