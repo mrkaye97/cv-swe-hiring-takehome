@@ -1,6 +1,6 @@
 # Introduction
 
-As of now (1/14/2021), [CollegeVine](collegevine.com) is hiring two new engineers! Part of our hiring process is a take-home project, where the task at hand is to code up an app that accepts lat / long coordinates and lists all of the schools within some provided distance of those coordinates. This is my R Shiny approach to that problem.
+As of now (1/14/2021), [CollegeVine](https://www.collegevine.com/) is hiring two new engineers! Part of our hiring process is a take-home project, where the task at hand is to code up an app that accepts lat / long coordinates and lists all of the schools within some provided distance of those coordinates. This is my R Shiny approach to that problem.
 
 # Setup
 
