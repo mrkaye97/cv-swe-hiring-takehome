@@ -18,8 +18,6 @@ ui <- fluidPage(
     useShinyjs(),
     setBackgroundColor(
         color = "ghostwhite",
-        gradient = c("linear", "radial"),
-        direction = c("bottom", "top", "right", "left"),
         shinydashboard = FALSE
     ),
     titlePanel("CollegeVine SWE Hiring Project"),
